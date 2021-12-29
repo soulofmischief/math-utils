@@ -1,8 +1,8 @@
-// @flow strict
-import type { ScalarMath } from 'Flow'
 
-
-export const round: ScalarMath = ( value, step = 1.0 ) => {
+/**
+ * Round a number with a given step modifier..
+ */
+export const round = ( value, step = 1.0 ) => {
   // Don't make black holes.
   if ( step ) {
     const fraction = 1.0 / step

@@ -1,5 +1,5 @@
 import o from 'ospec'
-import { clamp } from '../src'
+import { clamp } from '../index.js'
 
 
 const

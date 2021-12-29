@@ -1,5 +1,5 @@
 import o from 'ospec'
-import { radToDeg } from '../src'
+import { radToDeg } from '../index.js'
 
 o.spec( 'radToDeg', () => {
   o( 'Full rotation', () => {

@@ -1,5 +1,5 @@
 import o from 'ospec'
-import { odd } from '../src'
+import { odd } from '../index.js'
 
 
 const

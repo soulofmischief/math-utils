@@ -1,5 +1,5 @@
 import o from 'ospec'
-import { almostEqual } from '../src'
+import { almostEqual } from '../index.js'
 
 
 const

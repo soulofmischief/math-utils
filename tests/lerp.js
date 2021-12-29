@@ -1,5 +1,5 @@
 import o from 'ospec'
-import { lerp } from '../src'
+import { lerp } from '../index.js'
 
 
 const

@@ -1,5 +1,5 @@
 import o from 'ospec'
-import { even } from '../src'
+import { even } from '../index.js'
 
 
 const
