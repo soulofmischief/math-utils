@@ -4,14 +4,13 @@
   "version": "2.0.0",
   "author": {
     "name": "soulofmischief",
-    "email": "hello@badsoft.co",
     "url": "https://github.com/soulofmischief"
   },
   "homepage": "https://github.com/soulofmischief/math-utils",
   "license": "MIT",
   "type": "module",
   "bugs": {},
-  "main": "index",
+  "main": "index.js",
   "repository": {},
   "scripts": {
     "lint": "eslint . --config ./.eslintrc.cjs --fix",
